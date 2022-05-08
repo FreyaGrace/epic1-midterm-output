@@ -4,8 +4,8 @@ from turtle import *
 bgcolor('black')
 pencolor('white')
 fillcolor('#dce3f1')
+speed(0)
 def flower():
-    speed(0)
     pensize(3)
     pencolor('#d8697b')
     for i in range(10):
@@ -34,7 +34,6 @@ def star():
         left(160)
     end_fill()
     
-
 penup()
 goto(-10,-320)
 pd()
@@ -65,3 +64,4 @@ star()
 hideturtle()
 
 done()
+
