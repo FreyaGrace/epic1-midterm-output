@@ -9,6 +9,7 @@ The sun is the source of life. Even if all the other elements, such as water, ai
 The moon and all other planets look up to the sun for light. On earth, plants need the sun’s heat and warmth to thrive.
 The sun warms and illuminates the habitats of animals big and small. Large portions of the human population depend on the sun for subsistence.
 As a source and giver of life, the sun symbolizes the determination to live. 
+
 That is why I chose this kind of design.
 By manipulating shapes and lines and using different sources and references from YouTube, I created this mandala with the intent to replicate the sun with the flower of life to symbolize life and determination.
 # References
