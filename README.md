@@ -15,6 +15,8 @@ By manipulating shapes and lines and using different sources and references from
 # References
 [Flower Design](https://www.youtube.com/shorts/Mw4OLSla52I?&ab_channel=Feedium)
 <br />
+[Flower using pentagon](https://www.youtube.com/watch?v=BtMemG6yGVI&t=2s&ab_channel=TechWithSherlemious)
+<br />
 [Rays](https://www.youtube.com/shorts/fDwPtljGaf8?&ab_channel=Let%27saskShogo%7CYourJapanesefriendinKyoto)
 <br />
 [The symbols of life throughout the history](https://www.givemehistory.com/symbols-of-life)
