@@ -22,8 +22,34 @@ def rays():
                turtle.forward(a*4)
                turtle.right(91)
   
-          
-           
-rays()
+def flower_of_life():
+  turtle.pensize(3)
+  turtle.pencolor('#840602')
+  for x in range(6):
 
+    turtle.circle(100)
+
+    turtle.left(60)
+
+rays()
+turtle.pu()
+turtle.goto(0,0)
+turtle.pd()
+flower_of_life()
+
+turtle.pu()
+turtle.pensize(4)
+turtle.pencolor('#e6ac03')
+turtle.goto(30,100)
+turtle.pd()
+turtle.circle(100)
+turtle.pu()
+turtle.goto(70,190)
+turtle.pd()
+turtle.circle(210)
+turtle.pu()
+turtle.goto(75,210)
+turtle.pd()
+turtle.circle(230)
+turtle.hideturtle()
 turtle.done()
