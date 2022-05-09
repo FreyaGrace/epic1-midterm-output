@@ -17,4 +17,4 @@ That's why I chose this kind of design.
 
 # References
 [Flower Design](https://www.youtube.com/shorts/Mw4OLSla52I?&ab_channel=Feedium)
-[](https://www.youtube.com/shorts/Mw4OLSla52I?&ab_channel=Feedium)
+[Rays](https://www.youtube.com/shorts/fDwPtljGaf8?&ab_channel=Let%27saskShogo%7CYourJapanesefriendinKyoto)
